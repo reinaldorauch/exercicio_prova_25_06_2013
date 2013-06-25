@@ -1,0 +1,1786 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"me",
+				"menor"
+			],
+			[
+				"elemen",
+				"elemento"
+			],
+			[
+				"el",
+				"elemento"
+			],
+			[
+				"qu",
+				"quant_igual"
+			],
+			[
+				"quan",
+				"quant_igual"
+			],
+			[
+				"qua",
+				"quant_abaixo"
+			],
+			[
+				"quant",
+				"quant_acima"
+			],
+			[
+				"mai",
+				"maior"
+			],
+			[
+				"q",
+				"quant_acima"
+			],
+			[
+				"getId",
+				"getIdEmpresa"
+			],
+			[
+				"E",
+				"Exception"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"func",
+				"func"
+			],
+			[
+				"fun",
+				"fund"
+			],
+			[
+				"_model",
+				"_modelFuncionario"
+			],
+			[
+				"id",
+				"id_os"
+			],
+			[
+				"Model",
+				"Model_Admissao"
+			],
+			[
+				"id_",
+				"id_funcionario"
+			],
+			[
+				"is_a",
+				"is_array"
+			],
+			[
+				"new",
+				"newRow"
+			],
+			[
+				"dig",
+				"dig_folha"
+			],
+			[
+				"hora",
+				"hora_valor"
+			],
+			[
+				"ev_",
+				"ev_epecie_calculo"
+			],
+			[
+				"ele",
+				"elements"
+			],
+			[
+				"fet",
+				"fetchRow"
+			],
+			[
+				"getIde",
+				"getIdEventoByCodigo"
+			],
+			[
+				"dados",
+				"dados_os"
+			],
+			[
+				"_",
+				"_modelPraso"
+			],
+			[
+				"is_nu",
+				"is_numeric"
+			],
+			[
+				"JSON",
+				"json_encode"
+			],
+			[
+				"data",
+				"data_demissao"
+			],
+			[
+				"messa",
+				"message"
+			],
+			[
+				"base",
+				"baseURL"
+			],
+			[
+				"salvar",
+				"salvarFolhas"
+			],
+			[
+				"empre",
+				"empresas"
+			],
+			[
+				"emp",
+				"empresas"
+			],
+			[
+				"em",
+				"empresa"
+			],
+			[
+				"getEmpre",
+				"getEmpresasList"
+			],
+			[
+				"funci",
+				"function"
+			],
+			[
+				"ajax",
+				"ajax-wrapper"
+			],
+			[
+				"aja",
+				"ajax"
+			],
+			[
+				"sele",
+				"selectEmpresa"
+			],
+			[
+				"get",
+				"getEmpresasList  (function)"
+			],
+			[
+				"Zend_Form",
+				"Zend_Form_Element_Submit"
+			],
+			[
+				"select",
+				"selectEmpresa"
+			],
+			[
+				"defa",
+				"defaultZero"
+			],
+			[
+				"with",
+				"without"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"resi",
+				"resizable"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"form",
+				"formTags"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"_mo",
+				"_modelView"
+			],
+			[
+				"CO",
+				"corpo"
+			],
+			[
+				"te",
+				"tempo_final_experiencia1"
+			],
+			[
+				"tfe",
+				"tfe1"
+			],
+			[
+				"tem",
+				"tempo_final"
+			],
+			[
+				"tempo",
+				"tempo_final_experiencia2"
+			],
+			[
+				"sen",
+				"sendEmailNotificacaoCliente  (function)"
+			],
+			[
+				"sende",
+				"sendEmailAvisoExperiencia"
+			],
+			[
+				"setE",
+				"setErrorMessages  (function)"
+			],
+			[
+				"add",
+				"addslashes"
+			],
+			[
+				"html",
+				"htmlentities"
+			],
+			[
+				"getMe",
+				"getMessages"
+			],
+			[
+				"scroll",
+				"scrollHeight"
+			],
+			[
+				"ms",
+				"msgArea"
+			],
+			[
+				"pre",
+				"preventDefault"
+			],
+			[
+				"noti",
+				"notificationArea"
+			],
+			[
+				"usr",
+				"userSearch"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"left",
+				"leftSidebar"
+			],
+			[
+				"APP",
+				"APPLICATION_ENV"
+			],
+			[
+				"inde",
+				"indexColumns"
+			],
+			[
+				"__",
+				"__toString  (function)"
+			],
+			[
+				"count",
+				"countSelect"
+			],
+			[
+				"coun",
+				"countSelect"
+			],
+			[
+				"rRes",
+				"rResultTotal"
+			],
+			[
+				"usuar",
+				"usuario_table"
+			],
+			[
+				"col",
+				"column_name"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"scA",
+				"sClass"
+			],
+			[
+				"Aplicacao_A",
+				"Aplicacao_ActionHelper_DateToDb  (class)"
+			],
+			[
+				"data_",
+				"data_abertura"
+			],
+			[
+				"tm",
+				"tmpl"
+			],
+			[
+				"tmp",
+				"tmpl"
+			],
+			[
+				"AP",
+				"APPLICATION_PATH"
+			],
+			[
+				"pt",
+				"protected"
+			],
+			[
+				"pri",
+				"primary"
+			],
+			[
+				"iD",
+				"iDisplayStart"
+			],
+			[
+				"set",
+				"setOptions  (function)"
+			],
+			[
+				"rR",
+				"rResultTotal"
+			],
+			[
+				"t",
+				"beginTransaction  (function)"
+			],
+			[
+				"Zend",
+				"Zend_Db_Table"
+			],
+			[
+				"str_re",
+				"str_replace  (function)"
+			],
+			[
+				"id_usu",
+				"id_usuario_abertura"
+			],
+			[
+				"getD",
+				"getDefaultAdapter  (function)"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"usuaio",
+				"usuario_abertura"
+			],
+			[
+				"nom",
+				"nome_funcionario"
+			],
+			[
+				"usuario",
+				"usuario_abertura"
+			],
+			[
+				"nome_",
+				"nome_funcionario"
+			],
+			[
+				"Zend_Db",
+				"Zend_Db_Table"
+			],
+			[
+				"sear",
+				"searchOsSimples"
+			],
+			[
+				"pg_escape",
+				"pg_escape_string"
+			],
+			[
+				"pgescape",
+				"pg_escape_string"
+			],
+			[
+				"pg_escap",
+				"pg_escape_string  (function)"
+			],
+			[
+				"parent",
+				"parents"
+			],
+			[
+				"butt",
+				"buttons"
+			],
+			[
+				"button",
+				"buttons"
+			],
+			[
+				"but",
+				"buttons"
+			],
+			[
+				"ui-dia",
+				"ui-dialog-buttonset"
+			],
+			[
+				"icon",
+				"iconb"
+			],
+			[
+				"mi",
+				"middleNavA"
+			],
+			[
+				"wh",
+				"where"
+			],
+			[
+				"fe",
+				"fetchRow  (function)"
+			],
+			[
+				"funcion",
+				"funcionario"
+			],
+			[
+				"white",
+				"white-space"
+			],
+			[
+				"stri",
+				"strip_tags"
+			],
+			[
+				"st",
+				"strip_tags"
+			],
+			[
+				"ui-sta",
+				"ui-state-highlight-custom"
+			],
+			[
+				"click",
+				"clicked"
+			],
+			[
+				"lef",
+				"leftSidebar"
+			],
+			[
+				"chat",
+				"chat_uchat_"
+			],
+			[
+				"cli",
+				"clicked"
+			],
+			[
+				"chat_",
+				"chat_tab"
+			],
+			[
+				"userna",
+				"userName"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "c/exercicio_1.c",
+			"settings":
+			{
+				"buffer_size": 1984,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ssc",
+				"Set Syntax: C"
+			],
+			[
+				"ssjav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ssjson",
+				"Set Syntax: JSON"
+			],
+			[
+				"php set",
+				"PHP: Generate Getters and Setters"
+			],
+			[
+				"get",
+				"Snippet: Create getter and setter methods"
+			],
+			[
+				"get set",
+				"Snippet: Create getter and setter methods"
+			],
+			[
+				"PHP: Generate",
+				"PHP: Generate Getters and Setters"
+			],
+			[
+				"ssphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"setin",
+				"Preferences: Settings - Default"
+			],
+			[
+				"setu",
+				"Preferences: Settings - User"
+			],
+			[
+				"ssphg",
+				"Trailing Spaces: Toggle Trailing Spaces Highlighting"
+			],
+			[
+				"sssql",
+				"Set Syntax: SQL"
+			],
+			[
+				"ssjso",
+				"Set Syntax: JSON"
+			],
+			[
+				"ssini",
+				"Set Syntax: INI"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ssql",
+				"Set Syntax: SQL"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"snippet gets",
+				"Snippet: Create getter and setter methods"
+			],
+			[
+				"Snippet: get",
+				"Snippet: Create getter and setter methods"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"ssph",
+				"Set Syntax: PHP"
+			],
+			[
+				"Ssphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Packa",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"pac",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Ips",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"terminal",
+				"Preferences: Terminal Settings – Default"
+			],
+			[
+				"package control",
+				"Package Control: List Packages"
+			],
+			[
+				"pacha",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"lorem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"colo",
+				"Color picker"
+			],
+			[
+				"li",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"In",
+				"Package Control: Install Package"
+			],
+			[
+				"Apac",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"INst",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control",
+				"Package Control: Install Package"
+			],
+			[
+				"fun",
+				"Snippet: Function Signature"
+			],
+			[
+				"inter",
+				"Snippet: Interface"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 473.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/reinaldo/trabalhos/efolha/application/models/VwContratosExperiencia.php",
+		"/home/reinaldo/trabalhos/efolha/docs/views/vw_contratos_experiencia.sql",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/partials/cliente/experiencia.phtml",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/chamados/index.phtml",
+		"/home/reinaldo/trabalhos/efolha/application/controllers/IndexController.php",
+		"/home/reinaldo/trabalhos/efolha/application/models/VwContratosExperienciaVencidos.php",
+		"/home/reinaldo/trabalhos/efolha/library/Aplicacao/ActionHelper/Crypta.php",
+		"/home/reinaldo/trabalhos/efolha/library/Aplicacao/ViewHelper/Crypta.php",
+		"/home/reinaldo/trabalhos/efolha/public/js/files/functions.js",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/experiencia/index.phtml",
+		"/home/reinaldo/trabalhos/efolha/application/controllers/FuncionarioController.php",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/index/cliente.phtml",
+		"/home/reinaldo/trabalhos/efolha/public/js/files/folhas.js",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/folhas/index.phtml",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/partials/folhas/form-folhas.phtml",
+		"/home/reinaldo/trabalhos/efolha/application/controllers/FolhasController.php",
+		"/home/reinaldo/trabalhos/efolha/application/models/Os.php",
+		"/home/reinaldo/trabalhos/efolha/application/models/Eventos.php",
+		"/home/reinaldo/trabalhos/efolha/application/forms/Folhas.php",
+		"/home/reinaldo/trabalhos/efolha/application/models/Folhas.php",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/folhas/get-funcionarios.phtml",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/partials/folhas/list-func.phtml",
+		"/home/reinaldo/trabalhos/efolha/application/controllers/CrudController.php",
+		"/home/reinaldo/trabalhos/efolha/application/models/Empresas.php",
+		"/home/reinaldo/trabalhos/efolha/public/css/styles.css",
+		"/home/reinaldo/trabalhos/efolha/application/configs/application.ini",
+		"/home/reinaldo/trabalhos/efolha/application/models/VwOsClientes.php",
+		"/home/reinaldo/trabalhos/efolha/library/Zend/Db/Table/Abstract.php",
+		"/home/reinaldo/trabalhos/efolha/library/Zend/Db/Table.php",
+		"/home/reinaldo/trabalhos/efolha/application/models/Funcionario.php",
+		"/home/reinaldo/trabalhos/efolha/library/Zend/Form.php",
+		"/home/reinaldo/trabalhos/efolha/public/js/plugins/tables/jquery.dataTables.js",
+		"/home/reinaldo/trabalhos/efolha/application/models/Usuarios.php",
+		"/home/reinaldo/trabalhos/efolha/application/controllers/ExperienciaController.php",
+		"/home/reinaldo/trabalhos/efolha/application/models/Email.php",
+		"/home/reinaldo/trabalhos/efolha/application/models/UsuariosView.php",
+		"/home/reinaldo/trabalhos/efolha/application/models/Auth.php",
+		"/home/reinaldo/trabalhos/efolha/application/forms/Login.php",
+		"/home/reinaldo/trabalhos/efolha/application/layouts/scripts/layout.phtml",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/auth/login.phtml",
+		"/home/reinaldo/trabalhos/efolha/application/controllers/AuthController.php",
+		"/home/reinaldo/trabalhos/efolha/library/Aplicacao/Plugin/Auth.php",
+		"/home/reinaldo/trabalhos/efolha/library/Aplicacao/Acl/Setup.php",
+		"/home/reinaldo/trabalhos/efolha/application/models/Usuario.php",
+		"/home/reinaldo/trabalhos/efolha/application/forms/Usuario.php",
+		"/home/reinaldo/trabalhos/efolha/public/js/node/chat-cliente.js",
+		"/home/reinaldo/trabalhos/efolha/public/js/node/chat-usuario.js",
+		"/home/reinaldo/trabalhos/efolha/public/js/files/monitor.js",
+		"/home/reinaldo/trabalhos/efolha/application/models/Notificacoes.php",
+		"/home/reinaldo/trabalhos/efolha/application/controllers/OsController.php",
+		"/home/reinaldo/trabalhos/efolha/public/css/plugins.css",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/navigation/nav.phtml",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/navigation/alt-menu.phtml",
+		"/home/reinaldo/trabalhos/efolha/application/Bootstrap.php",
+		"/home/reinaldo/trabalhos/efolha/application/models/Admissao.php",
+		"/home/reinaldo/trabalhos/efolha/docs/views/vw_admissao.sql",
+		"/home/reinaldo/trabalhos/efolha/public/js/plugins/jquery/jquery-ui-1.10.3.custom.js",
+		"/home/reinaldo/trabalhos/efolha/public/js/plugins/jquery/jquery-ui-1.8.7.custom.min.js",
+		"/home/reinaldo/trabalhos/efolha/public/css/bootstrap.css",
+		"/home/reinaldo/trabalhos/efolha/public/js/plugins/forms/ui.spinner.js",
+		"/home/reinaldo/trabalhos/efolha/library/Zend/Db/Select.php",
+		"/home/reinaldo/trabalhos/efolha/application/models/DataTables.php",
+		"/home/reinaldo/trabalhos/efolha/library/Zend/Db/Table/Rowset.php",
+		"/home/reinaldo/trabalhos/efolha/library/Zend/Db/Table/Rowset/Abstract.php",
+		"/home/reinaldo/trabalhos/efolha/library/Zend/Db/Table/Select.php",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/index/usuario.phtml",
+		"/home/reinaldo/trabalhos/efolha/application/views/helpers/Prioridade.php",
+		"/home/reinaldo/trabalhos/efolha/application/views/helpers/Status.php",
+		"/home/reinaldo/trabalhos/efolha/application/models/FuncionariosSetor.php",
+		"/home/reinaldo/trabalhos/efolha/.gitignore",
+		"/home/reinaldo/trabalhos/efolha/public/index.php",
+		"/home/reinaldo/trabalhos/efolha/composer.json",
+		"/home/reinaldo/trabalhos/efolha/library/Aplicacao/ActionHelper/DateToDb.php",
+		"/home/reinaldo/trabalhos/efolha/library/Aplicacao/Filter/DateToDb.php",
+		"/home/reinaldo/trabalhos/efolha/library/Zend/Application/Module/Autoloader.php",
+		"/home/reinaldo/trabalhos/efolha/library/Zend/Loader/Autoloader/Resource.php",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/partials/ferias/ferias.phtml",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/ferias/index.phtml",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/recisao/index.phtml",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/admissao/index.phtml",
+		"/home/reinaldo/trabalhos/efolha/public/js/files/admissao.js",
+		"/home/reinaldo/trabalhos/efolha/public/js/files/recisoes.js",
+		"/home/reinaldo/trabalhos/efolha/application/models/Crud.php",
+		"/home/reinaldo/trabalhos/efolha/public/css/ui_custom.css",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/admissao/index-usuario.phtml",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/usuarios/index.phtml",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/partials/recisao/recisoes.phtml",
+		"/home/reinaldo/trabalhos/efolha/application/models/VwRecisao.php",
+		"/home/reinaldo/trabalhos/efolha/application/controllers/RecisaoController.php",
+		"/home/reinaldo/Desktop/backup-4.27.2013_01-20-30_nexapg/shell",
+		"/home/reinaldo/trabalhos/efolha/application/controllers/ChamadosController.php",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/partials/chamados/listagem-atividades.phtml",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/os/detalhes.phtml",
+		"/home/reinaldo/trabalhos/efolha/public/js/files/os.js",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/funcionario/detalhes.phtml",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/os/atividades.phtml",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/ferias/detalhes.phtml",
+		"/home/reinaldo/trabalhos/efolha/application/models/VwFerias.php",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/anexos/get-lista-anexos.phtml",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/admissao/add-anexos.phtml",
+		"/home/reinaldo/trabalhos/efolha/application/views/helpers/Show.php",
+		"/home/reinaldo/trabalhos/efolha/node_modules/socket.io/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/WebSocket.as",
+		"/home/reinaldo/trabalhos/efolha/application/models/Ferias.php",
+		"/home/reinaldo/trabalhos/efolha/application/controllers/FeriasController.php",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/boletos/detalhes.phtml",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/usuarios/detalhes.phtml",
+		"/home/reinaldo/trabalhos/efolha/public/js/extensions/strip_tags.js",
+		"/home/reinaldo/trabalhos/efolha/node_modules/socket.io/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tls/IConnectionState.as",
+		"/home/reinaldo/trabalhos/efolha/public/js/node/socket.js",
+		"/home/reinaldo/trabalhos/efolha/public/js/plugins/ui/jquery.easytabs.min.js",
+		"/home/reinaldo/trabalhos/efolha/docs/views/vw_contratos_experiencia_vencidos.sql",
+		"/home/reinaldo/trabalhos/efolha/node_modules/socket.io/.travis.yml",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/partials/cliente/experiencia_vencida.phtml",
+		"/home/reinaldo/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/reinaldo/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/reinaldo/trabalhos/efolha/application/models/VwUltimasInteracoes.php",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/partials/cliente/ultimas-interacoes.phtml",
+		"/home/reinaldo/trabalhos/efolha/application/controllers/AdmissaoController.php",
+		"/home/reinaldo/trabalhos/efolha/application/forms/Admissao.php",
+		"/home/reinaldo/trabalhos/efolha/application/controllers/AnexosController.php",
+		"/home/reinaldo/trabalhos/efolha/.htaccess",
+		"/home/reinaldo/trabalhos/efolha/application/forms/Os.php",
+		"/home/reinaldo/Desktop/dump_efolha2.backup",
+		"/home/reinaldo/trabalhos/efolha/docs/script_banco.sql",
+		"/home/reinaldo/trabalhos/efolha/application/forms/UsuarioUsuario.php",
+		"/home/reinaldo/trabalhos/efolha/application/forms/UsuarioMaster.php",
+		"/home/reinaldo/trabalhos/efolha/public/js/files/usuarios.js",
+		"/home/reinaldo/trabalhos/efolha/application/controllers/UsuariosController.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/home/reinaldo/trabalhos/efolha/public/css",
+			"/home/reinaldo/trabalhos/efolha/public/js/files",
+			"/home/reinaldo/trabalhos/efolha/public/css",
+			"/home/reinaldo/trabalhos/efolha/public/js/files",
+			"/home/reinaldo/trabalhos/efolha/application/",
+			"/home/reinaldo/trabalhos/efolha/application/controllers/",
+			"/home/reinaldo/trabalhos/efolha/public/js/files",
+			"/home/reinaldo/trabalhos/efolha/public/css",
+			"/home/reinaldo/trabalhos/efolha/public/js/files",
+			"/home/reinaldo/trabalhos/efolha/application/controllers",
+			"/home/reinaldo/trabalhos/efolha/public/js",
+			"/home/reinaldo/trabalhos/efolha/application/models",
+			"/home/reinaldo/trabalhos/efolha/application/model",
+			"/home/reinaldo/trabalhos/efolha/application/controllers",
+			"/home/reinaldo/trabalhos/efolha/application/models",
+			"/home/reinaldo/trabalhos/finsys/public/js",
+			"/home/reinaldo/trabalhos/finsys/",
+			"/home/reinaldo/trabalhos/finsys/application",
+			"/home/reinaldo/trabalhos/finsys/",
+			"/home/reinaldo/trabalhos/finsys/module",
+			"/home/reinaldo/trabalhos/finsys/vendor/doctrine/",
+			"/home/reinaldo/trabalhos/finsys/module/FinsysAdmin/view/finsys-admin/index",
+			"/home/reinaldo/trabalhos/mbs/application",
+			"/home/reinaldo/trabalhos/mbs/application/forms",
+			"/home/reinaldo/trabalhos/mbs/public/scripts",
+			"/home/reinaldo/trabalhos/mbs/application/controllers",
+			"/home/reinaldo/trabalhos/mbs/application/forms",
+			"/home/reinaldo/trabalhos/mbs/library/Zend",
+			"/home/reinaldo/trabalhos/mbs/application",
+			"/home/reinaldo/trabalhos/mbs/library/Zend/View",
+			"/home/reinaldo/trabalhos/mbs/application/forms",
+			"/home/reinaldo/trabalhos/mbs/application/controllers",
+			"/home/reinaldo/trabalhos/mbs/application/forms",
+			"*Controller.php",
+			"*.phtml",
+			"*.js",
+			"*.php",
+			"*.phtml",
+			"*.php",
+			"*.js",
+			"",
+			"/mnt/www/mbs/public/stylesheets",
+			"*.phtml,/mnt/www/mbs/application/views/scripts",
+			"*.js,/mnt/www/mbs/application/views/scripts",
+			"*.js",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"%s",
+			"atividades",
+			"recisao",
+			"folhasTable",
+			".sidebar",
+			"sidebar",
+			".",
+			"hash",
+			"widget",
+			".modal",
+			" ",
+			"dTable",
+			"table",
+			"readOnly",
+			"<td>",
+			"tOptions",
+			"<td>",
+			"                        <td></",
+			"<td>",
+			"form decorator",
+			"decorator",
+			"decorators",
+			"fg-toolbar",
+			"clea",
+			"<td>",
+			"headerInput",
+			"1",
+			"contrato",
+			"sometextarea",
+			"monitorar",
+			"notificationArea",
+			"notifica",
+			"altMenU",
+			"$(this).parent().hasClass('userSearch')",
+			".iButton",
+			"iButton",
+			"table",
+			"tableFooter",
+			"document",
+			"width",
+			"leftSidebar",
+			"BASE_URL",
+			"topSearch",
+			"dialog",
+			"dialig",
+			",\n                click: function(){\n                    $(this).dialog('close');\n                }",
+			"',\n                click: function(){\n                    $(this).dialog('close');\n                }\n",
+			",\n                click: function(){\n                    $(this).dialog('close');\n                }",
+			"close",
+			"dialog",
+			"diali",
+			"live",
+			".live(",
+			"live",
+			"topSearch",
+			"topSearch[]",
+			"appendFile",
+			"autocompleteresponse",
+			"topSearch",
+			"__clone",
+			"_clone",
+			"order(",
+			"sel",
+			"cast",
+			"adapter",
+			"Média",
+			"Baixa",
+			"html",
+			"1",
+			"case",
+			"0",
+			":",
+			"return",
+			"Order",
+			"order",
+			"$os->listar",
+			",",
+			"data_convertida",
+			"data_abertura",
+			"data_convertida",
+			"this->_templates[$aColumns[$i]]",
+			"input",
+			"t_t",
+			"_t",
+			"options",
+			"_GET",
+			"modelViewFuncionario",
+			"this->_modelView",
+			"i",
+			"search",
+			"autocomplete",
+			"table",
+			"circle",
+			"options",
+			"modalFn",
+			"mdAtividade",
+			"md",
+			"atividade",
+			"atividades",
+			"atividade",
+			"table",
+			"var ",
+			"Anexos",
+			"anexos",
+			".ui-dialog-buttonset",
+			".bRed",
+			"\n.bRed",
+			".bRed",
+			"bRed",
+			"buttonS bRed",
+			"button",
+			"icons",
+			"buttons",
+			" dias",
+			"prazo_experiencia1",
+			":",
+			"tr>",
+			"tr",
+			"->nome",
+			"nome",
+			"id_admissao",
+			"detlhes",
+			"dados",
+			"Dados",
+			"dados",
+			"uchat",
+			"data-messages",
+			"leftSidebar"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"            \n",
+			"remover",
+			"')\n",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "c/exercicio_1.c",
+					"settings":
+					{
+						"buffer_size": 1984,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								686,
+								686
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"encoding_helper_confidence": 0.99,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"function_name_status_row": -1,
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/C++/C.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"vw_con",
+				"docs/views/vw_contratos_experiencia.sql"
+			],
+			[
+				"modelexperiencia",
+				"application/models/VwContratosExperiencia.php"
+			],
+			[
+				"chamadosin",
+				"application/views/scripts/chamados/index.phtml"
+			],
+			[
+				"experienciain",
+				"application/views/scripts/experiencia/index.phtml"
+			],
+			[
+				"expe",
+				"application/views/scripts/partials/cliente/experiencia.phtml"
+			],
+			[
+				"vwcontr",
+				"application/models/VwContratosExperienciaVencidos.php"
+			],
+			[
+				"vwcontra",
+				"application/models/VwContratosExperiencia.php"
+			],
+			[
+				"index",
+				"application/controllers/IndexController.php"
+			],
+			[
+				"funciona",
+				"application/models/Funcionario.php"
+			],
+			[
+				"admissao",
+				"application/models/Admissao.php"
+			],
+			[
+				"crypta",
+				"library/Aplicacao/ViewHelper/Crypta.php"
+			],
+			[
+				"funcionario",
+				"application/controllers/FuncionarioController.php"
+			],
+			[
+				"functions",
+				"public/js/files/functions.js"
+			],
+			[
+				"experienciaind",
+				"application/views/scripts/experiencia/index.phtml"
+			],
+			[
+				"partialsecp",
+				"application/views/scripts/partials/cliente/experiencia.phtml"
+			],
+			[
+				"inedxcliente",
+				"application/views/scripts/index/cliente.phtml"
+			],
+			[
+				"vwexperi",
+				"application/models/VwContratosExperiencia.php"
+			],
+			[
+				"folhas.js",
+				"public/js/files/folhas.js"
+			],
+			[
+				"folhasin",
+				"application/views/scripts/folhas/index.phtml"
+			],
+			[
+				"form-",
+				"application/views/scripts/partials/folhas/form-folhas.phtml"
+			],
+			[
+				"folhascontr",
+				"application/controllers/FolhasController.php"
+			],
+			[
+				"formfolh",
+				"application/forms/Folhas.php"
+			],
+			[
+				"modeleven",
+				"application/models/Eventos.php"
+			],
+			[
+				"folhasco",
+				"application/controllers/FolhasController.php"
+			],
+			[
+				"folhasinde",
+				"application/views/scripts/folhas/index.phtml"
+			],
+			[
+				"modelos",
+				"application/models/Os.php"
+			],
+			[
+				"indexcont",
+				"application/controllers/IndexController.php"
+			],
+			[
+				"experiencia",
+				"application/views/scripts/partials/cliente/experiencia.phtml"
+			],
+			[
+				"indexcliente",
+				"application/views/scripts/index/cliente.phtml"
+			],
+			[
+				"crudcon",
+				"application/controllers/CrudController.php"
+			],
+			[
+				"formfolhas",
+				"application/forms/Folhas.php"
+			],
+			[
+				"modelfolh",
+				"application/models/Folhas.php"
+			],
+			[
+				"modelempre",
+				"application/models/Empresas.php"
+			],
+			[
+				"folhas",
+				"application/controllers/FolhasController.php"
+			],
+			[
+				"function",
+				"public/js/files/functions.js"
+			],
+			[
+				"formfol",
+				"application/forms/Folhas.php"
+			],
+			[
+				"list-",
+				"application/views/scripts/partials/folhas/list-func.phtml"
+			],
+			[
+				"styles",
+				"public/css/styles.css"
+			],
+			[
+				"application.ini",
+				"application/configs/application.ini"
+			],
+			[
+				"modelcliente",
+				"application/models/VwOsClientes.php"
+			],
+			[
+				"zenddbtablea",
+				"library/Zend/Db/Table/Abstract.php"
+			],
+			[
+				"zenddbtable",
+				"library/Zend/Db/Table.php"
+			],
+			[
+				"folhascon",
+				"application/controllers/FolhasController.php"
+			],
+			[
+				"func",
+				"public/js/files/functions.js"
+			],
+			[
+				"form",
+				"library/Zend/Form.php"
+			],
+			[
+				"formfo",
+				"application/forms/Folhas.php"
+			],
+			[
+				"datata",
+				"public/js/plugins/tables/jquery.dataTables.js"
+			],
+			[
+				"style",
+				"public/css/styles.css"
+			],
+			[
+				"usuarios",
+				"application/models/Usuarios.php"
+			],
+			[
+				"modelfuncion",
+				"application/models/Funcionario.php"
+			],
+			[
+				"modelusuarios",
+				"application/models/UsuariosView.php"
+			],
+			[
+				"modelemal",
+				"application/models/Email.php"
+			],
+			[
+				"contratose",
+				"application/models/VwContratosExperiencia.php"
+			],
+			[
+				"experi",
+				"application/views/scripts/partials/cliente/experiencia.phtml"
+			],
+			[
+				"vwcontro",
+				"application/models/VwContratosExperienciaVencidos.php"
+			],
+			[
+				"login",
+				"application/views/scripts/auth/login.phtml"
+			],
+			[
+				"layout",
+				"application/layouts/scripts/layout.phtml"
+			],
+			[
+				"formlogin",
+				"application/forms/Login.php"
+			],
+			[
+				"modelauth",
+				"application/models/Auth.php"
+			],
+			[
+				"authcon",
+				"application/controllers/AuthController.php"
+			],
+			[
+				"modelusu",
+				"application/models/Usuario.php"
+			],
+			[
+				"usuario.",
+				"application/forms/Usuario.php"
+			],
+			[
+				"aclset",
+				"library/Aplicacao/Acl/Setup.php"
+			],
+			[
+				"auth",
+				"application/controllers/AuthController.php"
+			],
+			[
+				"chat-cl",
+				"public/js/node/chat-cliente.js"
+			],
+			[
+				"chatr",
+				"public/js/node/chat-usuario.js"
+			],
+			[
+				"moni",
+				"public/js/files/monitor.js"
+			],
+			[
+				"modelno",
+				"application/models/Notificacoes.php"
+			],
+			[
+				"oscontro",
+				"application/controllers/OsController.php"
+			],
+			[
+				"mon",
+				"public/js/files/monitor.js"
+			],
+			[
+				"layou",
+				"application/layouts/scripts/layout.phtml"
+			],
+			[
+				"nv.p",
+				"application/views/scripts/navigation/nav.phtml"
+			],
+			[
+				"boo",
+				"application/Bootstrap.php"
+			],
+			[
+				"vw_a",
+				"docs/views/vw_admissao.sql"
+			],
+			[
+				"admissa",
+				"application/models/Admissao.php"
+			],
+			[
+				"app",
+				"application/configs/application.ini"
+			],
+			[
+				"lay",
+				"application/layouts/scripts/layout.phtml"
+			],
+			[
+				"boot",
+				"application/Bootstrap.php"
+			],
+			[
+				"ui-",
+				"public/js/plugins/jquery/jquery-ui-1.10.3.custom.js"
+			],
+			[
+				"bootrs",
+				"public/css/bootstrap.css"
+			],
+			[
+				"chat",
+				"public/js/node/chat-usuario.js"
+			],
+			[
+				"ui.s",
+				"public/js/plugins/forms/ui.spinner.js"
+			],
+			[
+				"authlo",
+				"application/views/scripts/auth/login.phtml"
+			],
+			[
+				"oscon",
+				"application/controllers/OsController.php"
+			],
+			[
+				"zenddbsele",
+				"library/Zend/Db/Select.php"
+			],
+			[
+				"zenddbselect",
+				"library/Zend/Db/Select.php"
+			],
+			[
+				"zenddbtableselect",
+				"library/Zend/Db/Table/Select.php"
+			],
+			[
+				"rowsetab",
+				"library/Zend/Db/Table/Rowset/Abstract.php"
+			],
+			[
+				"zenddbtablerowset",
+				"library/Zend/Db/Table/Rowset.php"
+			],
+			[
+				"data",
+				"application/models/DataTables.php"
+			],
+			[
+				"priori",
+				"application/views/helpers/Prioridade.php"
+			],
+			[
+				"status",
+				"application/views/helpers/Status.php"
+			],
+			[
+				"indexusu",
+				"application/views/scripts/index/usuario.phtml"
+			],
+			[
+				"indexconr",
+				"application/controllers/IndexController.php"
+			],
+			[
+				"funcion",
+				"application/models/FuncionariosSetor.php"
+			],
+			[
+				".git",
+				".gitignore"
+			],
+			[
+				"fun",
+				"public/js/files/functions.js"
+			],
+			[
+				"prioridade",
+				"application/views/helpers/Prioridade.php"
+			],
+			[
+				"experieci",
+				"application/views/scripts/experiencia/index.phtml"
+			],
+			[
+				"contratos",
+				"application/models/VwContratosExperiencia.php"
+			],
+			[
+				"dateto",
+				"library/Aplicacao/Filter/DateToDb.php"
+			],
+			[
+				"indexconto",
+				"application/controllers/IndexController.php"
+			],
+			[
+				"zendloaderautoloaderresource",
+				"library/Zend/Loader/Autoloader/Resource.php"
+			],
+			[
+				"zendapplicatiomoduleau",
+				"library/Zend/Application/Module/Autoloader.php"
+			],
+			[
+				"boots",
+				"application/Bootstrap.php"
+			],
+			[
+				"ui",
+				"public/css/ui_custom.css"
+			],
+			[
+				"funcionariocon",
+				"application/controllers/FuncionarioController.php"
+			],
+			[
+				"modelcrud",
+				"application/models/Crud.php"
+			],
+			[
+				"reci",
+				"public/js/files/recisoes.js"
+			],
+			[
+				"admissao.js",
+				"public/js/files/admissao.js"
+			],
+			[
+				"admissaoinde",
+				"application/views/scripts/admissao/index.phtml"
+			],
+			[
+				"indexusuario",
+				"application/views/scripts/index/usuario.phtml"
+			],
+			[
+				"funcions",
+				"application/models/FuncionariosSetor.php"
+			],
+			[
+				"indexusuaio",
+				"application/views/scripts/admissao/index-usuario.phtml"
+			],
+			[
+				"reciaoi",
+				"application/views/scripts/recisao/index.phtml"
+			],
+			[
+				"usuariosindex",
+				"application/views/scripts/usuarios/index.phtml"
+			],
+			[
+				"feriasin",
+				"application/views/scripts/ferias/index.phtml"
+			],
+			[
+				"recisoes",
+				"application/views/scripts/partials/recisao/recisoes.phtml"
+			],
+			[
+				"ferias",
+				"application/views/scripts/partials/ferias/ferias.phtml"
+			],
+			[
+				"syles",
+				"public/css/styles.css"
+			],
+			[
+				"vwrec",
+				"application/models/VwRecisao.php"
+			],
+			[
+				"recisao",
+				"application/controllers/RecisaoController.php"
+			],
+			[
+				"admissaoin",
+				"application/views/scripts/admissao/index.phtml"
+			],
+			[
+				"recisaoinde",
+				"application/views/scripts/recisao/index.phtml"
+			],
+			[
+				"detalhes",
+				"application/views/scripts/os/detalhes.phtml"
+			],
+			[
+				"os.js",
+				"public/js/files/os.js"
+			],
+			[
+				"listagem-",
+				"application/views/scripts/partials/chamados/listagem-atividades.phtml"
+			],
+			[
+				"chamados",
+				"application/controllers/ChamadosController.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 309.0,
+	"status_bar_visible": true
+}
